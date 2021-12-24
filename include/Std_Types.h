@@ -3,7 +3,7 @@
  * Description : Header file of used Common Standard Types                    *
  * Created on  : April 6, 2020                                                *
  ******************************************************************************/
-
+ 
 #ifndef INCLUDE_STD_TYPES_H_
 #define INCLUDE_STD_TYPES_H_
 

@@ -47,7 +47,7 @@ void Dcm_Init(const Dcm_ConfigType* ConfigPtr)
       /* MISRA RULE */
   }
 }
-
+ 
 
 /*************************************************************************
  * Service Name      : Dcm_StartOfReception                              *

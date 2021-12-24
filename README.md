@@ -1,2 +1,0 @@
-# AUTOSAR Diagnostic Communication Manager (DCM)
- Following Automotive Open System Architecture (AUTOSAR), Diagnostic Communication Manager Module Implemented over Communication Stack Based on AUTOSAR Specification Document (SWS) Release 4.3.1 Classic Platform, ISO-14229 Standard (Road Vehicle Unified Diagnostic Services (UDS)) and ISO-15765 (Road Vehicle Diagnostics on Controller Area Network (CAN)).

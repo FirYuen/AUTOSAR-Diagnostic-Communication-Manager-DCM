@@ -64,5 +64,3 @@ void Task_Init(void)
 }
 
 const uint8_t Num_Of_Tasks = (sizeof(Task) / sizeof(Task_t));
-
-

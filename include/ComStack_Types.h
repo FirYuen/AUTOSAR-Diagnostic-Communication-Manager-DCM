@@ -32,6 +32,7 @@ typedef struct
    uint8*            MetaDataPtr;
    PduLengthType     SduLength;
 } PduInfoType;
+
 typedef enum
 {
     TP_DATACONF,
